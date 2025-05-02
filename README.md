@@ -6,7 +6,7 @@ The class (Created in index.js) has the following classes/functions.
 
 # Class node()
 
-A class created for each individual node in the Linked List. For exclusive use by the LinkedList() class. Contatins a `value` and `nextNOde` attributes.
+A class created for each individual node in the Linked List. For exclusive use by the LinkedList() class. Contatins the `value` and `nextNOde` attributes.
 
 # Class LinkedList()
 
